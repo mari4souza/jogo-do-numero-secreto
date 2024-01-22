@@ -1,10 +1,12 @@
 # Jogo do Número Secreto 🔢❓ <br>
 
+<p align='justify'>
 Bem vindo ao **Jogo do Número Secreto**. Neste jogo, um número secreto entre 1 e 100 é gerado e seu desafio é descobrir qual é este número. Mas calma! A cada chute o jogo te fornece dicas, 
 revelando se o número secreto é maior ou menor que o chute. Descubra o número secreto com o mínimo de chutes possível! Desafie seus amigos a superá-lo!
+</p>
 
 <p align="center">
-  <img height="400px" src="./img/github-images/img-game.png"><br>
+  <img height="500px" src="./img/github-images/img-game.png"><br>
 </p>
 
 
