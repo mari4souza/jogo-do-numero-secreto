@@ -1,4 +1,4 @@
-# Jogo do Número Secreto 🔢❓ <br>
+# 🎲 Jogo do Número Secreto <br>
 
 <p align='justify'>
 Bem vindo ao <b>Jogo do Número Secreto</b>. Neste jogo, um número secreto entre 1 e 100 é gerado e seu desafio é descobrir qual é este número. Mas calma! A cada chute o jogo te fornece dicas, 
