@@ -6,7 +6,7 @@ revelando se o número secreto é maior ou menor que o chute. Descubra o número
 </p>
 
 <p align="center">
-  <img height="500px" src="./img/github-images/img-game.png"><br>
+  <img height="400px" src="./img/github-images/img-game.png"><br>
 </p>
 
 
