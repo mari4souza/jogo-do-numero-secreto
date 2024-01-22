@@ -4,7 +4,7 @@ Bem vindo ao **Jogo do Número Secreto**. Neste jogo, um número secreto entre 1
 revelando se o número secreto é maior ou menor que o chute. Descubra o número secreto com o mínimo de chutes possível! Desafie seus amigos a superá-lo!
 
 <p align="center">
-  <img height="500px" src="./img/github-images/img-game.png"><br>
+  <img height="400px" src="./img/github-images/img-game.png"><br>
 </p>
 
 
