@@ -22,7 +22,7 @@ revelando se o número secreto é maior ou menor que o chute. Descubra o número
 - **Dicas**: A cada chute errado receba uma dica revelando se o número secreto é maior ou menor que o número chutado.
 - **Contagem de chutes**: Ao final do jogo, depois de descobrir o número secreto, saiba quantos chutes foram necessários até acertar o número.
 - **Layout Responsivo**: Para Mobile, Tablet e Desktop. Jogue em qualquer tela!
-- **Responsive Voice**: Uma biblioteca importada no script que possui a capacidade de leitura de texto da página, proporcinando ao usuário uma experiência auditiva e imersiva.
+- **Responsive Voice**: Uma biblioteca importada no script que possui a capacidade de leitura de texto da página. O que proporciona ao usuário uma experiência auditiva e imersiva que faz jus a atmosfera cyberpunk do jogo, e ainda torna o projeto acessível para pessoas com deficiências visuais.
 Para permitir a leitura do texto, quando a página abrir clique em "Allow".
 
 ### 🕹️ Como Jogar ?
